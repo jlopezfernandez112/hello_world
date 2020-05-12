@@ -1,2 +1,5 @@
 # hello_world
-My first repository
+
+Hi everyone!
+
+Making some changes to my new branch.
